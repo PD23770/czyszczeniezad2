@@ -14,3 +14,5 @@ Wykonano analizę biznesową:
 - łączna wartość zamówień w każdym miesiącu,
 - top 5 klientów według wartości zamówień,
 - średnia wartość zamówienia w każdej kategorii.
+
+Dodatkowo załączyłem pliki csv i zdjęcie wykresu.
